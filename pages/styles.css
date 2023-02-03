@@ -94,7 +94,7 @@ body {
     flex: 0 0 auto;
     flex-flow: column nowrap;
     gap: 10px;
-    height: 70px;
+    height: 0px;
     overflow: hidden;
     padding: 20px;
     position: relative;
@@ -361,7 +361,7 @@ textarea {
 
 @media (max-width: 600px) {
     .container {
-        max-width: 400px;
+        max-width: 300px;
         width: 100%;
     }
 
