@@ -94,7 +94,7 @@ body {
     flex: 0 0 auto;
     flex-flow: column nowrap;
     gap: 10px;
-    height: 0px;
+    height: 60px;
     overflow: hidden;
     padding: 20px;
     position: relative;
